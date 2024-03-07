@@ -8,5 +8,5 @@ In this repo i will go through airbnb data with CRISP-DM to look for more insigh
  `pip install -r requirements.txt`
 
  ## Supported Python Versions
- Supported Versions can be found in [title](.github/workflows/build.yml) 
+ Supported Versions can be found in [.github/workflows/build.yml](.github/workflows/build.yml) 
 

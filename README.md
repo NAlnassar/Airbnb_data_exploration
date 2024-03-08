@@ -1,5 +1,6 @@
 # Airbnb Data Exploration
 In this repo i will go through airbnb data with CRISP-DM to look for more insight and model the data
+Feel free to read my [Blog Post!](https://medium.com/@alnassarnasser/airbnb-the-illusion-of-a-good-choice-ec30442d5a93)
 
 # Quickstart
 > [!NOTE]

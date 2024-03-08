@@ -24,5 +24,18 @@ In this repo i will go through airbnb data with CRISP-DM to look for more insigh
 
 -[Seaborn](https://seaborn.pydata.org/) is a statistical data visualization library based on Matplotlib. It provides a high-level interface for creating attractive and informative statistical graphics.
 
+# Contribution Guidelines
+
+This repository is not open to contributions. It has been created for personal use and specific purposes, and external contributions are not being accepted. Feel free to fork this repository for your personal use or reference.
+
+## Reporting Issues
+
+While contributions are not accepted, you can report any issues or bugs you encounter by creating an issue. However, please understand that these issues may not be actively addressed or resolved.
+
+## Can I Fork This Repository?
+
+Yes, you are free to fork this repository for your personal use or reference.
+
+
 
 

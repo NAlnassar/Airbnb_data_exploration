@@ -12,17 +12,17 @@ In this repo i will go through airbnb data with CRISP-DM to look for more insigh
 
 # Libraries Used in the Repository
 
-- Pandas
-[Pandas](https://pandas.pydata.org/) is a powerful data manipulation library for Python. It provides data structures and functions for efficiently handling and analyzing structured data.
 
-- Numpy
-[Numpy](https://numpy.org/) is a fundamental package for scientific computing with Python. It provides support for arrays, matrices, and high-level mathematical functions to operate on these arrays efficiently.
+-[Pandas](https://pandas.pydata.org/) is a data manipulation library for Python. It provides data structures and functions for efficiently handling and analyzing **structured** data.
 
-- Scikit-learn (Sklearn)
-[Scikit-learn](https://scikit-learn.org/) is a versatile machine learning library for Python. It features various algorithms for classification, regression, clustering, and dimensionality reduction, along with utilities for model evaluation and data preprocessing.
 
-- Seaborn
-[Seaborn](https://seaborn.pydata.org/) is a statistical data visualization library based on Matplotlib. It provides a high-level interface for creating attractive and informative statistical graphics.
+-[Numpy](https://numpy.org/) is a fundamental package for scientific computing with Python. It provides support for arrays, matrices, and tools needed for machine learning task and sciency projects in general.
 
-These libraries are essential tools for data analysis, machine learning, and data visualization tasks in the repository.
+
+-[Scikit-learn](https://scikit-learn.org/) is a versatile machine learning library for Python. It features various algorithms for classification, regression, clustering, along with utilities for model evaluation and data preprocessing. even though it is pretty high-level compared to pytorch or tensorflow, it gets the job done.
+
+
+-[Seaborn](https://seaborn.pydata.org/) is a statistical data visualization library based on Matplotlib. It provides a high-level interface for creating attractive and informative statistical graphics.
+
+
 

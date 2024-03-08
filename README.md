@@ -32,9 +32,9 @@ This repository is not open to contributions. It has been created for personal u
 
 While contributions are not accepted, you can report any issues or bugs you encounter by creating an issue. However, please understand that these issues may not be actively addressed or resolved.
 
-## Can I Fork This Repository?
+# License
 
-Yes, you are free to fork this repository for your personal use or reference.
+This repository is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
 
 
